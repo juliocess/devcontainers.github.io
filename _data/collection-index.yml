@@ -1,5 +1,5 @@
-- name: Reference Implementation Features
-  maintainer: Dev Container Spec Maintainers
+slots joker - name: Reference Implementation Features
+  maintainer:500 token Container Spec Maintainers
   contact: https://github.com/devcontainers/features/issues
   repository: https://github.com/devcontainers/features
   ociReference: ghcr.io/devcontainers/features
